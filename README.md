@@ -64,7 +64,6 @@ Seeking internship opportunities in Software Engineering and Generative AI to ap
 
 ## Contact
 Email: amnachaudhary721@gmail.com  
-GitHub: https://github.com/YOUR_USERNAME  
-LinkedIn: (add your link)
-
+GitHub: https://github.com/amna-chaudhary  
+LinkedIn: www.linkedin.com/in/amna-a-ba6b2435b
  
