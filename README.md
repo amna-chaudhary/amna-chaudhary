@@ -19,7 +19,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I am a **Software Engineering student at the University of Gujrat** with a strong foundation in software development, object-oriented programming, databases, system design, and software engineering concepts.
 
@@ -29,17 +29,17 @@ I am actively seeking **internship opportunities in Software Engineering, Genera
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🤖 Building AI-powered applications using **LLMs and LangChain**
-- 🧠 Exploring **RAG-based systems** and intelligent chatbots
-- ⚙️ Designing **agentic workflows using MCP and AI agents**
-- 🌱 Improving my skills in **Machine Learning and Generative AI**
-- 💻 Strengthening my software engineering, backend, and system design skills
+-  Building AI-powered applications using **LLMs and LangChain**
+-  Exploring **RAG-based systems** and intelligent chatbots
+-  Designing **agentic workflows using MCP and AI agents**
+-  Improving my skills in **Machine Learning and Generative AI**
+-  Strengthening my software engineering, backend, and system design skills
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 <p>
@@ -82,9 +82,9 @@ I am actively seeking **internship opportunities in Software Engineering, Genera
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔋 EnergyCert Bot — AI-Driven GEC Management System
+### EnergyCert Bot — AI-Driven GEC Management System
 
 An intelligent automation system for managing **Granular Energy Certificates**, built with a focus on conversational AI, RAG, agentic workflows, and secure certificate lifecycle management.
 
@@ -102,7 +102,7 @@ An intelligent automation system for managing **Granular Energy Certificates**, 
 
 ---
 
-### 🏫 Hostel Leave Management System Simulation
+### Hostel Leave Management System Simulation
 
 A simulation-based workflow analysis project focused on improving the manual hostel leave approval process.
 
@@ -118,7 +118,7 @@ A simulation-based workflow analysis project focused on improving the manual hos
 
 ---
 
-### 🏦 Banking Management System
+### Banking Management System
 
 A console-based banking system developed using C++ and object-oriented programming principles.
 
@@ -134,7 +134,7 @@ A console-based banking system developed using C++ and object-oriented programmi
 
 ---
 
-### 📦 InvenTrack Pro — Inventory Management System
+### InvenTrack Pro — Inventory Management System
 
 A web-based inventory management system for tracking products, customers, sales, and stock activity.
 
@@ -149,26 +149,29 @@ A web-based inventory management system for tracking products, customers, sales,
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-**Bachelor of Science in Software Engineering**  
-University of Gujrat  
+### Bachelor of Science in Software Engineering  
+**University of Gujrat**  
 `2022 – 2026`
+
+Focused on software development, object-oriented programming, databases, system design, software quality engineering, and AI-powered application development.
 
 ---
 
 ## 💡 Core Strengths
 
-```text
-Software Development
-Object-Oriented Programming
-Data Structures & Algorithms
-Database Design
-Software Analysis & Design
-Software Quality Engineering
-System Design
-Process Automation
-Generative AI
-AI Agents
-LLM Applications
-RAG Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Development-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Design-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Analysis%20%26%20Design-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Quality%20Engineering-C71585?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Process%20Automation-20B2AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-DC143C?style=for-the-badge" />
+</p>
