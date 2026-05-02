@@ -162,16 +162,16 @@ Focused on software development, object-oriented programming, databases, system 
 ## Core Strengths
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Development-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Design-1E1B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Analysis%20%26%20Design-312E81?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Quality%20Engineering-3B0764?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-082F49?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Process%20Automation-134E4A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-4C0519?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Development-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-161B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1C1F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Design-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Analysis%20%26%20Design-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Quality%20Engineering-312E81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Process%20Automation-0B3B3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-3B0764?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-064E3B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-020617?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-450A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-4C0519?style=for-the-badge" />
 </p>
