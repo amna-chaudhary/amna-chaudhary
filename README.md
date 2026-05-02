@@ -43,43 +43,42 @@ I am actively seeking **internship opportunities in Software Engineering, Genera
 
 ### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=6295CB" />
+  <img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=F89820" />
 </p>
 
 ### Web Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 ### Databases & Backend
 <p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/ASP.NET-1F2937?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
 </p>
 
 ### AI & Emerging Technologies
 <p>
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=00A67E" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/RAG-1F2937?style=for-the-badge&logo=readme&logoColor=FFB020" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=for-the-badge&logo=bot&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/MCP-18181B?style=for-the-badge&logo=protocols.io&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/AnyLogic-D71920?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-1F2937?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />
+  <img src="https://img.shields.io/badge/AnyLogic-18181B?style=for-the-badge&logoColor=D71920" />
 </p>
-
 ---
 
 ## Featured Projects
