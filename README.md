@@ -1,15 +1,25 @@
-<!-- Professional Animated Header -->
+<!-- Animated Top Banner -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=230&section=header&text=Amna%20Afzal&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=58&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=240&section=header&text=Amna%20Afzal&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=58&descSize=17&animation=fadeIn"
     alt="Header Banner"
   />
 </p>
 
+<!-- Professional Intro Line -->
 <h3 align="center">
   Building intelligent, practical, and user-focused software solutions
 </h3>
 
+<!-- Animated Mini Banner -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1E3A8A,100:0F766E&height=80&section=header&text=Generative%20AI%20%7C%20RAG%20%7C%20LangChain%20%7C%20MCP%20%7C%20AI%20Agents&fontSize=20&fontColor=FFFFFF&animation=twinkling"
+    alt="AI Focus Banner"
+  />
+</p>
+
+<!-- Contact Badges -->
 <p align="center">
   <a href="mailto:amnachaudhary721@gmail.com">
     <img src="https://img.shields.io/badge/Email-amnachaudhary721%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -22,10 +32,12 @@
   </a>
 </p>
 
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amna-chaudhary&label=Profile%20Views&color=0F766E&style=for-the-badge" />
 </p>
 
+<!-- Skill Focus Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-0D1117?style=flat-square&logo=openai&logoColor=00A67E" />
   <img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=flat-square&logo=bot&logoColor=22C55E" />
@@ -112,62 +124,30 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
 </p>
 
-## GitHub Overview
+## GitHub Activity
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1E3A8A,100:0F766E&height=90&section=header&text=GitHub%20Activity%20%26%20Stats&fontSize=26&fontColor=FFFFFF&animation=fadeIn"
-    alt="GitHub Stats Banner"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1E3A8A,100:0F766E&height=85&section=header&text=Contribution%20Activity&fontSize=25&fontColor=FFFFFF&animation=twinkling"
+    alt="Contribution Activity Banner"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amna-chaudhary&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
-</p>
+### Current Streak
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amna-chaudhary&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amna-chaudhary&theme=tokyonight&utcOffset=5"
-    alt="Productive Time"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amna-chaudhary&theme=tokyonight"
-    alt="Repos Per Language"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amna-chaudhary&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=amna-chaudhary&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://streak-stats.demolab.com?user=amna-chaudhary&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
     alt="GitHub Streak"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amna-chaudhary&theme=tokyo-night&hide_border=true&radius=12&area=true&custom_title=Contribution%20Activity"
-    alt="Contribution Activity Graph"
-  />
-</p>
+### Contribution Graph
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=amna-chaudhary&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
-    alt="GitHub Trophies"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amna-chaudhary&theme=tokyo-night&hide_border=true&radius=12&area=true&custom_title=Contribution%20Graph"
+    alt="Contribution Activity Graph"
   />
 </p>
 
