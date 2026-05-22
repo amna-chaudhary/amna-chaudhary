@@ -1,7 +1,7 @@
 <!-- Professional Animated Header -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=230&section=header&text=Amna%20Afzal&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=58&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=220&section=header&text=Amna%20Afzal&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=60&descSize=17&animation=fadeIn"
     alt="Header Banner"
   />
 </p>
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
 </p>
 
 ## About Me
@@ -47,7 +47,7 @@ My main focus is on **Generative AI, AI Agents, Retrieval-Augmented Generation, 
 I am currently seeking **internship opportunities** in **Software Engineering, Generative AI, and AI Agent Development**, where I can contribute to real-world projects and continue improving my technical skills.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
 </p>
 
 ## Current Focus
@@ -59,7 +59,7 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
 - Strengthening backend, database, and system design concepts
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
 </p>
 
 ## Tech Stack
@@ -109,33 +109,15 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
 </p>
 
 ## GitHub Overview
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1E3A8A,100:0F766E&height=90&section=header&text=GitHub%20Activity%20%26%20Stats&fontSize=26&fontColor=FFFFFF&animation=fadeIn"
-    alt="GitHub Stats Banner"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amna-chaudhary&theme=tokyonight"
     alt="GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amna-chaudhary&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amna-chaudhary&theme=tokyonight&utcOffset=5"
-    alt="Productive Time"
   />
 </p>
 
@@ -152,27 +134,43 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=amna-chaudhary&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amna-chaudhary&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amna-chaudhary&theme=tokyonight&utcOffset=5"
+    alt="Productive Time"
+  />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
+</p>
+
+## Contribution Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=amna-chaudhary&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
+</p>
+
+## Contribution Activity
+
+<p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amna-chaudhary&theme=tokyo-night&hide_border=true&radius=12&area=true&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amna-chaudhary&theme=tokyo-night&hide_border=true&radius=12&area=true"
     alt="Contribution Activity Graph"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=amna-chaudhary&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
 </p>
 
 ## Featured Projects
@@ -257,7 +255,7 @@ A web-based inventory management system for managing products, sales, customers,
 `HTML` `CSS` `JavaScript` `Database Management`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
 </p>
 
 ## Education
@@ -269,7 +267,7 @@ A web-based inventory management system for managing products, sales, customers,
 Focused on software development, object-oriented programming, databases, system design, software quality engineering, and AI-powered application development.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
 </p>
 
 ## Core Strengths
@@ -287,7 +285,7 @@ Focused on software development, object-oriented programming, databases, system 
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1E3A8A,100:0D1117&height=145&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1E3A8A,100:0D1117&height=130&section=footer"
     alt="Footer Banner"
   />
 </p>
