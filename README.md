@@ -82,6 +82,22 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amna-chaudhary&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amna-chaudhary&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
 ## Featured Projects
 
 ### EnergyCert Bot — AI-Driven GEC Management System
