@@ -21,21 +21,21 @@
 
 ## About Me
 
-I am a **Software Engineering student at the University of Gujrat** with a strong foundation in software development, object-oriented programming, databases, system design, and software engineering concepts.
+I am a **Software Engineering student at the University of Gujrat** with an interest in building practical, intelligent, and user-focused software solutions.
 
-My current focus is on **Generative AI, AI Agents, Retrieval-Augmented Generation, LangChain, MCP, and LLM-based applications**. I enjoy building intelligent systems that combine software engineering principles with modern AI technologies.
+My main focus is on **Generative AI, AI Agents, Retrieval-Augmented Generation, LangChain, MCP, and LLM-based applications**. I enjoy working on projects that combine strong software engineering concepts with modern AI technologies.
 
-I am actively seeking **internship opportunities in Software Engineering, Generative AI, and AI Agent Development**, where I can apply my technical knowledge, contribute to real-world projects, and continue growing as a developer.
+I am currently seeking **internship opportunities** in **Software Engineering, Generative AI, and AI Agent Development**, where I can contribute to real-world projects and continue improving my technical skills.
 
 ---
 
 ## Current Focus
 
--  Building AI-powered applications using **LLMs and LangChain**
--  Exploring **RAG-based systems** and intelligent chatbots
--  Designing **agentic workflows using MCP and AI agents**
--  Improving my skills in **Machine Learning and Generative AI**
--  Strengthening my software engineering, backend, and system design skills
+- Building AI-powered applications using **LLMs and LangChain**
+- Exploring **RAG-based chatbots and intelligent systems**
+- Designing **agentic workflows using MCP**
+- Improving skills in **Machine Learning and Generative AI**
+- Strengthening backend, database, and system design concepts
 
 ---
 
@@ -79,54 +79,70 @@ I am actively seeking **internship opportunities in Software Engineering, Genera
   <img src="https://img.shields.io/badge/Visual%20Studio-1F2937?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />
   <img src="https://img.shields.io/badge/AnyLogic-18181B?style=for-the-badge&logoColor=D71920" />
 </p>
+
 ---
 
 ## Featured Projects
 
 ### EnergyCert Bot — AI-Driven GEC Management System
 
-An intelligent automation system for managing **Granular Energy Certificates**, built with a focus on conversational AI, RAG, agentic workflows, and secure certificate lifecycle management.
+An AI-powered platform for managing **Green Energy Certificates** through natural language interaction, RAG, AI agents, and blockchain-based certificate operations.
 
-**Key Features:**
+**Highlights:**
 
-- Conversational AI chatbot for natural language certificate operations
-- RAG integration to improve LLM-generated responses
-- Agentic workflows using **Model Context Protocol**
-- APIs for certificate creation, transfer, and retirement
-- Audit and reporting features for transparent tracking
-- Decentralized marketplace concept for certificate trading
+- Natural language chatbot for certificate actions
+- RAG-based responses for GEC-related queries
+- AI agent workflows using **Model Context Protocol**
+- Certificate issuance, transfer, and retirement operations
+- Blockchain-based tracking and transparent lifecycle management
 
 **Tech Focus:**  
-`Generative AI` `LangChain` `RAG` `MCP` `AI Agents` `APIs` `Decentralized Systems`
+`Generative AI` `LangChain` `RAG` `MCP` `AI Agents` `Blockchain` `APIs`
+
+---
+
+### Society Registration Automation System
+
+An AI-supported process improvement project designed to reduce manual registration delays and improve student experience.
+
+**Highlights:**
+
+- Analyzed the existing manual registration process
+- Designed improved digital and AI-powered workflows
+- Used simulation modeling to compare system performance
+- Reduced registration time and waiting through automation
+
+**Tech Focus:**  
+`AnyLogic` `BPMN` `Process Automation` `AI Automation` `System Analysis`
 
 ---
 
 ### Hostel Leave Management System Simulation
 
-A simulation-based workflow analysis project focused on improving the manual hostel leave approval process.
+A simulation-based workflow analysis project focused on improving the hostel leave approval process.
 
-**Key Features:**
+**Highlights:**
 
-- Analyzed manual approval delays and tracking issues
-- Identified bottlenecks such as warden dependency and peak-time congestion
+- Identified delays in manual approval and tracking
 - Designed an automated workflow using **AnyLogic**
-- Improved process efficiency and reduced data loss risk
+- Reduced dependency on manual follow-ups
+- Improved process visibility and efficiency
 
 **Tech Focus:**  
-`AnyLogic` `Simulation` `Process Automation` `System Analysis`
+`AnyLogic` `Simulation` `Workflow Analysis` `Process Improvement`
 
 ---
 
 ### Banking Management System
 
-A console-based banking system developed using C++ and object-oriented programming principles.
+A console-based banking system developed using **C++** and object-oriented programming principles.
 
-**Key Features:**
+**Highlights:**
 
-- Role-based modules for admin, employee, account holder, accounts, and transactions
-- Applied OOP concepts including classes, inheritance, and modular design
-- File handling for persistent data storage
-- CRUD operations for account and transaction management
+- Admin, employee, and account holder modules
+- Account and transaction management
+- File handling for data storage
+- Applied OOP concepts such as classes, inheritance, and modular design
 
 **Tech Focus:**  
 `C++` `OOP` `File Handling` `CRUD Operations`
@@ -135,13 +151,14 @@ A console-based banking system developed using C++ and object-oriented programmi
 
 ### InvenTrack Pro — Inventory Management System
 
-A web-based inventory management system for tracking products, customers, sales, and stock activity.
+A web-based inventory management system for managing products, sales, customers, and stock activity.
 
-**Key Features:**
+**Highlights:**
 
-- Admin dashboard for products, revenue, customers, and low-stock alerts
-- Sales order workflow with customer and payment details
-- Search, filters, stock status, pricing, and order confirmation features
+- Admin dashboard for inventory and sales tracking
+- Product, customer, and order management
+- Low-stock alerts and search/filter options
+- Clean interface for stock and revenue monitoring
 
 **Tech Focus:**  
 `HTML` `CSS` `JavaScript` `Database Management`
@@ -163,14 +180,10 @@ Focused on software development, object-oriented programming, databases, system 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Development-0D1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Object--Oriented%20Programming-161B22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1C1F26?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database%20Design-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Analysis%20%26%20Design-1E293B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Quality%20Engineering-312E81?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Process%20Automation-0B3B3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative%20AI-3B0764?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-064E3B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG%20Systems-4C0519?style=for-the-badge" />
 </p>
