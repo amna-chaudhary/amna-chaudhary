@@ -1,54 +1,23 @@
-<!-- Animated Top Banner -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=240&section=header&text=Amna%20Afzal&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=58&descSize=17&animation=fadeIn"
-    alt="Header Banner"
-  />
-</p>
+<!-- Profile Header -->
+<h1 align="center">Hi there, I'm Amna Afzal 👋</h1>
 
-<!-- Professional Intro Line -->
 <h3 align="center">
-  Building intelligent, practical, and user-focused software solutions
+  Software Engineering Student | Generative AI Enthusiast | AI Agents & LLM Applications
 </h3>
 
-<!-- Animated Mini Banner -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1E3A8A,100:0F766E&height=80&section=header&text=Generative%20AI%20%7C%20RAG%20%7C%20LangChain%20%7C%20MCP%20%7C%20AI%20Agents&fontSize=20&fontColor=FFFFFF&animation=twinkling"
-    alt="AI Focus Banner"
-  />
-</p>
-
-<!-- Contact Badges -->
 <p align="center">
   <a href="mailto:amnachaudhary721@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amnachaudhary721%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-amnachaudhary721%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/amna-chaudhary">
     <img src="https://img.shields.io/badge/GitHub-amna--chaudhary-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/amna-a-ba6b2435b">
-    <img src="https://img.shields.io/badge/LinkedIn-Amna%20Afzal-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Amna%20Afzal-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amna-chaudhary&label=Profile%20Views&color=0F766E&style=for-the-badge" />
-</p>
-
-<!-- Skill Focus Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-0D1117?style=flat-square&logo=openai&logoColor=00A67E" />
-  <img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=flat-square&logo=bot&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/RAG-1F2937?style=flat-square&logo=readme&logoColor=FFB020" />
-  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=chainlink&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/MCP-18181B?style=flat-square&logo=protocols.io&logoColor=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
-</p>
+---
 
 ## About Me
 
@@ -58,9 +27,7 @@ My main focus is on **Generative AI, AI Agents, Retrieval-Augmented Generation, 
 
 I am currently seeking **internship opportunities** in **Software Engineering, Generative AI, and AI Agent Development**, where I can contribute to real-world projects and continue improving my technical skills.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
-</p>
+---
 
 ## Current Focus
 
@@ -70,14 +37,11 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
 - Improving skills in **Machine Learning and Generative AI**
 - Strengthening backend, database, and system design concepts
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
-</p>
+---
 
 ## Tech Stack
 
 ### Programming Languages
-
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=6295CB" />
@@ -85,7 +49,6 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
 </p>
 
 ### Web Development
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
@@ -93,7 +56,6 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
 </p>
 
 ### Databases & Backend
-
 <p>
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
@@ -101,7 +63,6 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
 </p>
 
 ### AI & Emerging Technologies
-
 <p>
   <img src="https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=00A67E" />
   <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=2DD4BF" />
@@ -112,7 +73,6 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
 </p>
 
 ### Tools & Platforms
-
 <p>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
@@ -120,40 +80,27 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
   <img src="https://img.shields.io/badge/AnyLogic-18181B?style=for-the-badge&logoColor=D71920" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
-</p>
+---
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1E3A8A,100:0F766E&height=85&section=header&text=Contribution%20Activity&fontSize=25&fontColor=FFFFFF&animation=twinkling"
-    alt="Contribution Activity Banner"
-  />
-</p>
-
-### Current Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=amna-chaudhary&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
-    alt="GitHub Streak"
-  />
-</p>
-
-### Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amna-chaudhary&theme=tokyo-night&hide_border=true&radius=12&area=true&custom_title=Contribution%20Graph"
-    alt="Contribution Activity Graph"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=amna-chaudhary&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Amna's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-chaudhary&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amna-chaudhary&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
 
 ## Featured Projects
 
@@ -236,9 +183,7 @@ A web-based inventory management system for managing products, sales, customers,
 **Tech Focus:**  
 `HTML` `CSS` `JavaScript` `Database Management`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
-</p>
+---
 
 ## Education
 
@@ -248,9 +193,7 @@ A web-based inventory management system for managing products, sales, customers,
 
 Focused on software development, object-oriented programming, databases, system design, software quality engineering, and AI-powered application development.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E3A8A,100:0F766E&height=3&section=footer" />
-</p>
+---
 
 ## Core Strengths
 
@@ -263,11 +206,4 @@ Focused on software development, object-oriented programming, databases, system 
   <img src="https://img.shields.io/badge/Generative%20AI-3B0764?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-064E3B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG%20Systems-4C0519?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1E3A8A,100:0D1117&height=145&section=footer"
-    alt="Footer Banner"
-  />
 </p>
