@@ -1,7 +1,7 @@
 <!-- Professional Animated Header -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=210&section=header&text=Amna%20Afzal&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=60&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=220&section=header&text=Amna%20Afzal&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=60&descSize=17&animation=fadeIn"
     alt="Header Banner"
   />
 </p>
@@ -20,6 +20,10 @@
   <a href="https://www.linkedin.com/in/amna-a-ba6b2435b">
     <img src="https://img.shields.io/badge/LinkedIn-Amna%20Afzal-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amna-chaudhary&label=Profile%20Views&color=0F766E&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -108,19 +112,34 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
 </p>
 
-## GitHub Stats
+## GitHub Overview
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=amna-chaudhary&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Amna's GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amna-chaudhary&theme=tokyonight"
+    alt="GitHub Profile Summary"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-chaudhary&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amna-chaudhary&theme=tokyonight"
+    alt="Repos Per Language"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amna-chaudhary&theme=tokyonight"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amna-chaudhary&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amna-chaudhary&theme=tokyonight&utcOffset=5"
+    alt="Productive Time"
   />
 </p>
 
@@ -134,6 +153,19 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
   <img 
     src="https://streak-stats.demolab.com?user=amna-chaudhary&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
     alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amna-chaudhary&theme=tokyo-night&hide_border=true&radius=12&area=true"
+    alt="Contribution Activity Graph"
   />
 </p>
 
@@ -253,7 +285,7 @@ Focused on software development, object-oriented programming, databases, system 
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1E3A8A,100:0D1117&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1E3A8A,100:0D1117&height=130&section=footer"
     alt="Footer Banner"
   />
 </p>
