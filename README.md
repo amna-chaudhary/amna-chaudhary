@@ -112,41 +112,6 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
 </p>
 
-## GitHub Overview
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amna-chaudhary&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amna-chaudhary&theme=tokyonight"
-    alt="Repos Per Language"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amna-chaudhary&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amna-chaudhary&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amna-chaudhary&theme=tokyonight&utcOffset=5"
-    alt="Productive Time"
-  />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
-</p>
-
 ## Contribution Streak
 
 <p align="center">
