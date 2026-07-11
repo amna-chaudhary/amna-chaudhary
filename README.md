@@ -1,7 +1,7 @@
 <!-- Professional Animated Header -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=220&section=header&text=Amna%20Bibi&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=60&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=220&section=header&text=Amna%20Bibi&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=60&descSize=17&animation=fadeIn"
     alt="Header Banner"
   />
 </p>
