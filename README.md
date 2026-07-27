@@ -1,13 +1,13 @@
 <!-- Professional Animated Header -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=220&section=header&text=Amna%20Afzal&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=60&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:0F766E&height=220&section=header&text=Amna%20Bibi&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=60&descSize=17&animation=fadeIn"
     alt="Header Banner"
   />
 </p>
 
 <h3 align="center">
-  Building intelligent, practical, and user-focused software solutions
+  Building intelligent, practical, and automated software solutions
 </h3>
 
 <p align="center">
@@ -53,6 +53,7 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
 ## Current Focus
 
 - Building AI-powered applications using **LLMs and LangChain**
+- AI Automation using **N8N**
 - Exploring **RAG-based chatbots and intelligent systems**
 - Designing **agentic workflows using MCP**
 - Improving skills in **Machine Learning and Generative AI**
@@ -125,18 +126,6 @@ I am currently seeking **internship opportunities** in **Software Engineering, G
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
 </p>
 
-## Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amna-chaudhary&theme=tokyo-night&hide_border=true&radius=12&area=true"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
-</p>
 
 ## Featured Projects
 
