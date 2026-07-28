@@ -45,7 +45,6 @@ I am passionate about developing AI systems that automate workflows, enhance pro
 
 My main focus is on **Generative AI, AI Agents, Retrieval-Augmented Generation, LangChain, MCP, and LLM-based applications**. I enjoy working on projects that combine strong software engineering concepts with modern AI technologies.
 
-I am currently seeking **internship opportunities** in **Software Engineering, Generative AI, and AI Agent Development**, where I can contribute to real-world projects and continue improving my technical skills.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=2&section=footer" />
