@@ -175,6 +175,34 @@ Currently working on AI-powered applications involving:
 
 ---
 
+## AI Automation Skills (Gained Through Internship)
+
+As part of my ongoing **AI Engineer Internship**, I have been building hands-on experience in designing and deploying AI-powered automation workflows under real project conditions.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n%20Workflow%20Automation-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-0D1117?style=for-the-badge&logo=openai&logoColor=00A67E" />
+  <img src="https://img.shields.io/badge/AI%20Agent%20Design-0F172A?style=for-the-badge&logo=bot&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-4C0519?style=for-the-badge&logo=readme&logoColor=FFB020" />
+  <img src="https://img.shields.io/badge/REST%20API%20Integration-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP%20Workflows-020617?style=for-the-badge&logo=protocols.io&logoColor=FFFFFF" />
+</p>
+
+**What I've been learning and applying as an intern:**
+
+- Building and deploying **automation workflows in n8n**, connecting APIs, databases, and AI models into working pipelines
+- Integrating **LLMs** into applications for tasks like natural language understanding, summarization, and conversational responses
+- Assisting in the design of **AI agent behaviors** using LangChain and Model Context Protocol (MCP)
+- Writing and refining **prompts** to improve response accuracy and consistency in production-style workflows
+- Contributing to **RAG-based system components** for retrieving and grounding responses in relevant data
+- Connecting AI workflows to external services through **REST API integrations**
+- Practicing debugging, testing, and iterating on automation flows under mentorship/team guidance
+
+*Note: These are skills I am actively developing during my internship, applied under supervision as part of hands-on project work.*
+
+---
+
 ### Society Registration Automation System
 
 An AI-supported process improvement project designed to reduce manual registration delays and improve student experience.
