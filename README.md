@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/RAG-1F2937?style=flat-square&logo=readme&logoColor=FFB020" />
   <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=chainlink&logoColor=2DD4BF" />
   <img src="https://img.shields.io/badge/MCP-18181B?style=flat-square&logo=protocols.io&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/N8N%20Automation-0D1117?style=flat-square&logo=openai&logoColor=00A67E" />
 </p>
 
 <p align="center">
